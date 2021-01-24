@@ -2,8 +2,11 @@
 Code Generator
 
 Install:
+
 pip install pandas
+
 pip install openpyxl
+
 pip install jinja2
 
 Usage:
